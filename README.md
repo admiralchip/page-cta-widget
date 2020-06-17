@@ -1,2 +1,2 @@
 # Rim Page CTA Widget
-Insert CTA button linking to a page as a widget
+Wordpress plugin to insert CTA button linking to a page as a widget
